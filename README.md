@@ -19,10 +19,10 @@ Codex is a landing page website built using HTML, CSS, and JavaScript. The websi
 ## Screenshots
 
 ##### Dekstop
-![App Screenshot](screnshoot%20dekstop.png)
+![App Screenshot](screnshoots/%20dekstop.png)
 
 ##### Tablet
-![App Screenshot](screnshoot%20tablet.png)
+![App Screenshot](screnshoots/%20tablet.png)
 
 ##### Mobile
-![App Screenshot](screnshoot%20mobile.png)
+![App Screenshot](screnshoots/%20mobile.png)
